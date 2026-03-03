@@ -1,5 +1,5 @@
 # Gallagher Tracker
-![GitHub stars](https://img.shields.io/github/stars/AbusiveAlcoholic/gallagher-tracker?style=for-the-badge) ![GitHub forks](https://img.shields.io/github/forks/AbusiveAlcoholic/gallagher-tracker?style=for-the-badge) ![GitHub issues](https://img.shields.io/github/issues/AbusiveAlcoholic/gallagher-tracker?style=for-the-badge) ![Node.js](https://img.shields.io/badge/node-%3E%3D18-green?style=for-the-badge&logo=node.js) ![Discord](https://img.shields.io/badge/discord-bot-blue?style=for-the-badge&logo=discord) ![Status](https://img.shields.io/badge/status-active-success?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/AbusiveAlcoholic/gallagher-tracker?style=for-the-badge) ![GitHub issues](https://img.shields.io/github/issues/AbusiveAlcoholic/gallagher-tracker?style=for-the-badge) ![Node.js](https://img.shields.io/badge/node-%3E%3D18-green?style=for-the-badge&logo=node.js) ![Discord](https://img.shields.io/badge/discord-bot-blue?style=for-the-badge&logo=discord) ![Status](https://img.shields.io/badge/status-active-success?style=for-the-badge)
 
 <p align="center">
   <b>Game update tracker with Discord notifications and a web dashboard.</b>
